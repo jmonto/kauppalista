@@ -1,2 +1,2 @@
 # kauppalista
-Kauppalista kaupassa käymiseen, ettei joka päivä tarvitse käydä.
+Kauppalista kaupassa käymiseen, ettei joka päivä tarvitse kauppaan juosta.
